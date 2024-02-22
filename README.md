@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kai Yi Ji</h1>
 <h3 align="center">A passionate graduate from University of Birmingham.</h3>
 
+# Interests
+Tech Meetups, Game Development, Web Development and Artificial Intelligence
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaiji123&label=Profile%20views&color=0e75b6&style=flat" alt="kaiji123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaiji123" alt="kaiji123" /></a> </p>
