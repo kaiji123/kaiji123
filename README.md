@@ -12,7 +12,7 @@ Tech Meetups, Game Development, Web Development and Artificial Intelligence
 
 - 👨‍💻 All of my projects are available at [https://kaiji123.github.io/portfolio/](https://kaiji123.github.io/portfolio/)
 
-- 💬 Ask me about **React, Python, JavaScript**
+- 💬 Ask me about **React, Python, JavaScript, C# and Java**
 
 - 📫 How to reach me **kejinko012@gmail.com**
 
