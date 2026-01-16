@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kai Yi Ji</h1>
-<h3 align="center">A passionate graduate from University of Birmingham.</h3>
+<h3 align="center">A passionate developer graduated from University of Birmingham.</h3>
 
 # Interests
 Tech Meetups, Game Development, Web Development and Artificial Intelligence
