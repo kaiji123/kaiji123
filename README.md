@@ -3,14 +3,14 @@
 
 I'm a software engineer, builder, and postgraduate student at the University of Oxford.
 
-🎓 **MSc Modelling for Global Health** — University of Oxford  
-🎓 **BSc Computer Science (First-Class Honours)** — University of Birmingham
+ **MSc Modelling for Global Health** — University of Oxford  
+ **BSc Computer Science (First-Class Honours)** — University of Birmingham
 
 I enjoy turning ambitious ideas into working software, from production backend systems and AI applications to mobile apps, developer tools, and experimental projects.
 
 My interests span software engineering, artificial intelligence, algorithms, mathematical modelling, cloud computing, and building technology that solves real-world problems.
 
-## 🚀 What I Do
+##  What I Do
 
 - **Software Engineering:** Full-stack applications, APIs, distributed systems, and production infrastructure.
 - **AI & Machine Learning:** Computer vision, LLM-powered applications, intelligent agents, and data-driven systems.
@@ -18,7 +18,7 @@ My interests span software engineering, artificial intelligence, algorithms, mat
 - **Product Development:** Building and shipping web, mobile, and desktop applications.
 - **Cloud & DevOps:** AWS, Azure, GCP, CI/CD, containers, and infrastructure automation.
 
-## 🛠️ Selected Projects
+##  Selected Projects
 
 - **Trace Lab** — Interactive visualisations of algorithms and coding interview problems.
 - **OpenDAG** — Extracting causal graphs from epidemiological research using AI.
@@ -30,17 +30,17 @@ My interests span software engineering, artificial intelligence, algorithms, mat
 
 Explore more projects on my portfolio.
 
-## 💼 Professional Background
+##  Professional Background
 
 I've worked on production software across healthcare, education, finance, retail, and other industries, contributing to systems used by businesses, students, and patients.
 
 My experience includes backend development, cloud infrastructure, AI integration, mobile development, and mentoring other developers.
 
-## 🔬 Current Interests
+##  Current Interests
 
 I'm particularly interested in the intersection of software engineering, AI, mathematical modelling, and real-world applications, while continuing to explore new technologies and build across different domains.
 
-## 🔗 Connect
+##  Connect
 
 🌐 [Portfolio](https://kaiji123.github.io/portfolio/)  
 💻 [GitHub](https://github.com/kaiji123)
